@@ -1,9 +1,9 @@
 <resources>
     <string name="app_name">login</string>
-    <string name="title">Inicia sesión!</string>
-    <string name="indications_login">Ingresa solo si anteriormente ya te has registrado</string>
-    <string name="email">Correo</string>
+    <string name="title">Iniciá sesión con tu e-mail!</string>
+    <string name="indications_login">Solo podrás usar este método si ya tenías registrada una cuenta.</string>
+    <string name="email">E-mail</string>
     <string name="password">Contraseña</string>
-    <string name="forgot_password">¿Olvidaste tu contraseña?</string>
+    <string name="forgot_password">Olvidé mi contraseña</string>
     <string name="btn_continue">Continuar</string>
 </resources>
